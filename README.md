@@ -11,3 +11,4 @@
     "namevps0": "3cx", 
     "ipvps0": "acajeanmoulin.on3cx.fr",  
     "portvps0": "80",
+node index.js
