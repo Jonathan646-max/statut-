@@ -1,5 +1,5 @@
 {
-    "bottoken": "", <-- le token de votre bot
+    "bottoken": "1272503592711880774", <-- le token de votre bot
     "setchannel": "1244921069899354163", <-- l'id du salon au quelle il envera le message
 
     "nameweb0": "Collège Saint-Pierre",   <-- le nom du site web
